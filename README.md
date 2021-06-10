@@ -10,7 +10,7 @@ If you like the idea of xxh click ⭐ on the repo and stay tuned.
 ## Install
 Install from xxh repo:
 ```
-XXH +I https://github.com/xxh/xxh-plugin-zsh-ohmyzsh
+xxh +I https://github.com/elihopk/xxh-plugin-zsh-ohmyzsh-autols-fix
 ```
 Connect:
 ``` 
