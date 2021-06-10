@@ -1,5 +1,5 @@
 <p align="center">  
-<a href="https://github.com/ohmyzsh/ohmyzsh/">Oh My Zsh</a> plugin for <a href="//github.com/xxh/xxh-shell-zsh">xxh-shell-zsh</a>.
+<a href="https://github.com/ohmyzsh/ohmyzsh/">Oh My Zsh</a> plugin for <a href="//github.com/xxh/xxh-shell-zsh">xxh-shell-zsh</a> with auto-ls compatibility.
 </p>
 
 <p align="center">  
@@ -9,10 +9,6 @@ If you like the idea of xxh click ⭐ on the repo and stay tuned.
 
 ## Install
 Install from xxh repo:
-```
-xxh +I xxh-plugin-zsh-ohmyzsh
-```
-Install from any Github repo:
 ```
 XXH +I https://github.com/xxh/xxh-plugin-zsh-ohmyzsh
 ```
