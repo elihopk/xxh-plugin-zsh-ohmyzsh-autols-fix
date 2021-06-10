@@ -1,4 +1,5 @@
-CURR_DIR="$(cd "$(dirname "$0" 1>/dev/null)" && pwd)"
+cd "$(dirname "$0")" 1>/dev/null
+CURR_DIR="$(pwd)"
 plugin_name='xxh-plugin-zsh-ohmyzsh-autols-fix'
 
 export ZSH="$CURR_DIR/ohmyzsh"
